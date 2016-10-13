@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/simplepeng/BubbleView/master/gifs/bubbleview.gif)
 
-## 使用
+## 使用use
 
  * maven
 
